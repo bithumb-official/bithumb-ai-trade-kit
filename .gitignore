@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+packages/*/dist/
+dist/
+
+# Environment & credentials
+.env
+.env.local
+*.local
+
+# Local config / runtime
+.bithumb/
+*.log
+
+# OS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+
+# Misc
+*.bak
